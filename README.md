@@ -20,6 +20,6 @@ This repository contains the interactive business intelligence layers and execut
 ---
 
 ## 🚀 How to View the Dashboards
-1. Download the `COVID Portfolio Dashboard.twb` file from this repository.
-2. Open the file natively using **Tableau Desktop** or **Tableau Public (Free Desktop App)** to interact with the filters, tooltips, and data sheets.
-
+## 🚀 How to View the Dashboards
+1. Download the `COVID Portfolio Dashboard.twbx` file from this repository.
+2. Open the file natively using **Tableau Desktop** or **Tableau Public (Free Desktop App)** to interact with the sheets, filters, and tooltips out-of-the-box with embedded data structures.
